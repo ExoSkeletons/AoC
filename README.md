@@ -1,1 +1,1 @@
-Personal solutions for Advent Of Code challenges 
+Personal solutions for Advent Of Code
